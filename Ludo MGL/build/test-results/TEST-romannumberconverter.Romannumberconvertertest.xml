@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="romannumberconverter.Romannumberconvertertest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-04T08:18:12" hostname="tc405-112-13.insa-lyon.fr" time="0.083">
+  <properties/>
+  <testcase name="check1" classname="romannumberconverter.Romannumberconvertertest" time="0.078"/>
+  <testcase name="check2" classname="romannumberconverter.Romannumberconvertertest" time="0.001"/>
+  <testcase name="check_null" classname="romannumberconverter.Romannumberconvertertest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
