@@ -22,4 +22,4 @@ before_script:
 
 script:
   - ./gradlew clean build test
-  - ./gradlew
+  - ./gradlew JacocoTestReport
